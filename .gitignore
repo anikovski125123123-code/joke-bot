@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+data/joke_index.txt
+*.db
+*.sqlite3
+.venv/
+venv/
